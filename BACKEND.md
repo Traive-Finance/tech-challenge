@@ -4,11 +4,11 @@
 Below, we have outlined a problem where you will design and develop an application to meet specific requirements. This is your opportunity to showcase your expertise! We will be assessing how you structure your project, organize your code, and apply concepts, best practices and technologies to deliver a robust solution.
 
 ### **Problem Statement**
-You will create a **JSON API over HTTP** with the following requirements, using any . The API will manage a collection of **Farms** and their associated **Crop Productions**, with data stored in a persistent and durable storage system of your choice.
+You will create a **JSON API over HTTP** with the following requirements. The API will manage a collection of **Farms** and their associated **Crop Productions**, with data stored in a persistent and durable storage system of your choice.
 
-For senior-level (IC3) or higher positions, we expect the solution to be implemented using Golang, which is our primary backend language at Traive.
+**For senior-level (IC3) or higher positions**, we expect the solution to be implemented using **Golang**, which is our primary backend language at Traive.
 
-For positions below senior-level, unless explicitly stated otherwise by one of our employees, you are free to choose from any of the following programming languages:
+**For positions below senior-level**, unless explicitly stated otherwise by one of our employees, you are free to choose from any of the following programming languages:
 - Golang
 - JavaScript or TypeScript
 - Java or Kotlin
@@ -43,7 +43,6 @@ Here’s a brief description of the expected schema of the objects the API will 
   - Use of modular, well-documented code;
   - Separation of concerns;
   - Environment configuration using `.env` or equivalent mechanisms.
-
 
 
 ### **Stretch Goals**
