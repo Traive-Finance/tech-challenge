@@ -67,4 +67,5 @@ The following are not required but will be considered a plus:
 
 ## **Submission Guidelines**
 Include all source code and documentation in a Git repository and send it us. We'll review it as soon as possible and get back to you!
-P.S.: For discretion reasons, please avoid including `Traive` anywhere in your challenge!
+
+_P.S.: For discretion reasons, please avoid including `Traive` anywhere in your challenge!_
