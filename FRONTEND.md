@@ -8,6 +8,8 @@ Below, we have outlined a problem where you will design and develop an applicati
 
 You will create an **application** that will manage a collection of **Farms** and their associated **Crop Productions**, with data persisting via [json-server](https://www.npmjs.com/package/json-server) through REST API.
 
+_Note: If you're taking the **backend** and **frontend** test as a **fullstack developer**, please ignore the usage of `json-server` and connect your frontend application with the backend developed by you._
+
 ## Running Local Server
 
 Enter The `frontend` folder and install the dependencies by `npm i`. After that, you can simply run `npm start` and the `json-server` library will support you with the necessary endpoints and methods. Feel free to access the [documentation](https://www.npmjs.com/package/json-server) to understand supported endpoints and query parameters.
